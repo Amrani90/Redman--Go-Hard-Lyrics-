@@ -6,18 +6,18 @@ Day 1 Exercise Basic
 <html lang='en'>
    <head>
        <meta charset='utf-8'>
-       <title> Redman-Go Hard </title>
+       <titel> Redman-Go Hard </titel>
    </head>
    <body> 
        <p> <h3> Redman - GO HARD (Lyrics) </p> </h3>
 
-    <div>
+  
 <dt>  <p> <h1> Go Hard (Lyrics) </h1> </p> </dt> 
     <p><h2> <ol> <dt>  [Intro] </dt> 
         <dd>Whoa whoa whoa (yeah)
             Whoa whoa whoa (yeah) (I'm high as a muhfucka man)
             Whoa whoa whoa (yeah) (straight up we gon do it like this nigga)
-            Whoa whoa whoa (yeah) (Ow!)</p> </div> </h2> </ol> </dd> 
+            Whoa whoa whoa (yeah) (Ow!)</p> </h2> </ol> </dd> 
        <p>
        <p>
 <ol>  <i> <h4> <dt> [Verse 1] </dt> 
@@ -99,6 +99,18 @@ Day 1 Exercise Basic
             Whoa whoa whoa (yeah) (I'm high as a muhfucka man)
             Whoa whoa whoa (yeah) (straight up we gon do it like this nigga)
             Whoa whoa whoa (yeah) (Ow!) </p> </h3> </dd> </i> 
+            
+
+   <nav> <em>
+  <i>  <a href="https://github.com/Short2000/ContactPage/edit/main/README.md/">main</a>
+  <i>  <a href="https://github.com/Short2000/ContactPage/edit/main/README.md/">LaHainePage</a>
+  <i>  <a href="https:>https://github.com/Short2000/ContactPage/edit/main/README.md/">ContactPage</a>
+  <i>  <a href="https:>https://github.com/Short2000/Redman--Go-Hard-Lyrics-/">Redman(Lyrics)</a>
+  <i>  <a href="https://github.com/Short2000/Welcome-Everbody/edit/main/README.md/">Welcome Everbody</a>
+    </nav> </em>
+    
+
+      
 
    <p><a href=”Redman-Mudface-.html”> 
     </div>
