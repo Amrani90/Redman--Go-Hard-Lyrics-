@@ -39,13 +39,13 @@ Day 1 Exercise Basic
             Look dummy, we ain't never in the same lane </i> </h4> </ol> </dd> 
 
            
-    <ol> <h2> <dt> [Hook] </dt> 
+   <h2><dt> [Hook] </dt> 
     <dd> <i>You gotta either go hard or go home
             You know a nigga like me keeping that chrome
             And when you hear the women hittin' my phone
             You know a nigga like me'll go hard
             I go hard, I go hard, I go hard, I go hard
-            I go hard, I go hard, I go hard, I go hard </h2> </ol> </i> </dd> 
+            I go hard, I go hard, I go hard, I go hard </h2> </i> </dd>
             <p>           
 <ol> <i> <h4> <dt> [Verse 2] </dt> 
         <dd>Hey, the same chick I tell you you cock blockin'
@@ -100,8 +100,8 @@ Day 1 Exercise Basic
             Whoa whoa whoa (yeah) (straight up we gon do it like this nigga)
             Whoa whoa whoa (yeah) (Ow!) </p> </h3> </dd> </i> 
 
-            <p><a href=”Redman-Mudface-.html”>
-
-        </div>
+   <p><a href=”Redman-Mudface-.html”> 
+    </div>
+    
    </body>
 </html>
